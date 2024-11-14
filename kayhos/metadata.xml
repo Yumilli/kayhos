@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>kayhos</name>
+    <directory>kayhos</directory>
+    <id>3365696940</id>
+    <description>This mod adds a playable character called kayhos and pablo (Baby Plum Reskin)
+
+Kayhos starts with Chaotic Altar and Kayhos (chaos reskin)
+
+Chaotic altar: Consumes a random item and drops a random item
+
+Adds some easter eggs to the game tehee!</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Player Characters"/>
+    <tag id="Bosses"/>
+</metadata>

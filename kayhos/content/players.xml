@@ -1,0 +1,16 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Kayhos"
+        skin="character_kayhos.png"
+        nameimage="playername_kayhos.png"
+        skinColor="-1"
+        hp="4"
+        black="2"
+        bombs="1"
+        rangemodifier="1.1"
+        portrait="playerportrait_kayhos.png"
+        items="Chaotic Altar, 402"
+        costumeSuffix="kayhos"
+        birthright="Altar of fortune"
+    />
+    <player name="Kayhos" achievement="100000" bSkinParent="Kayhos" />
+</players>

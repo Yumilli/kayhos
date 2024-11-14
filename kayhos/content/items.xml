@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <active name="Chaotic Altar" description="Sacrifice your items!" gfx="Chaotic Altar.png" maxcharges="8" quality="4"/>
+</items>

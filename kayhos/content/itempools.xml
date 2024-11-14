@@ -1,0 +1,4 @@
+<ItemPools>
+    <Pool Name="secret"><Item Name="Chaotic Altar" Weight="1" DecreaseBy="1" RemoveOn="0.1"/></Pool>
+    <Pool Name="greedSecret"><Item Name="Chaotic Altar" Weight="1" DecreaseBy="1" RemoveOn="0.1"/></Pool>
+</ItemPools>
